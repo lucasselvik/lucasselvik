@@ -22,4 +22,4 @@ I'm an **Electrical Engineering** student at **Washington University in St. Loui
 
 ### 📫 Let's Connect:
 [[LinkedIn Link](https://www.linkedin.com/in/lucas-selvik/)]
-[[Gmail](lucasselvik@gmail.com)] | [[WashU Email](selvik@wustl.edu)]
+lucasselvik@gmail.com | selvik@wustl.edu

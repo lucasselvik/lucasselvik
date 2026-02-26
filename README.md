@@ -3,8 +3,8 @@
 I'm an **Electrical Engineering** student at **Washington University in St. Louis**. I'm passionate about building sustainable technology and exploring the space where hardware meets intelligent software.
 
 ### 🛠️ Tech Stack
-- **Languages:** ![Python](link) ![MATLAB](link) ![Java](link)
-- **Robotics/Hardware:**![ROS](link) ![Arduino](link) ![Circuits](link)
+- **Languages:** ![Python]![MATLAB]![Java]
+- **Robotics/Hardware:**![ROS]![Arduino]![Circuits]
 
 ### 🚀 Current Projects
 - **WashU Robotics Delivery Bot:** Developing the electrical systems and [establishing various sensors (Lidar, GPS, IMU)] for autonomous navigation.

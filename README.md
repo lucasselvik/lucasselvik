@@ -21,4 +21,4 @@ I'm an **Electrical Engineering** student at **Washington University in St. Loui
 - **Portuguese** (Intermediate)
 
 ### 📫 Let's Connect:
-[[LinkedIn](https://www.linkedin.com/in/lucas-selvik/)] | lucasselvik@gmail.com | selvik@wustl.edu
+[LinkedIn](https://www.linkedin.com/in/lucas-selvik/) | lucasselvik@gmail.com | selvik@wustl.edu

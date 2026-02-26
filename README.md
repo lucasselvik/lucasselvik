@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Lucas! 👋
 
-<!--
-**lucasselvik/lucasselvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Electrical Engineering** student at **Washington University in St. Louis**. I'm passionate about building sustainable technology and exploring the space where hardware meets intelligent software.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** ![Python](link) ![MATLAB](link) ![Java](link)
+- **Robotics/Hardware:**![ROS](link) ![Arduino](link) ![Circuits](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+- **WashU Robotics Delivery Bot:** Developing the electrical systems and [establishing various sensors (Lidar, GPS, IMU)] for autonomous navigation.
+- **Smoke Data Visualization:** Jupyter Notebook visualization of PM2.5 data.
+
+### 🌱 I’m currently learning...
+- Advanced Robotics Systems: Diving deeper into ROS and autonomous navigation stacks for the WashU Robotics delivery bot.
+- Embedded Systems: Enhancing my skills in PCB/circuit design and real-time sensor integration for hardware-software synergy.
+- Sustainable Tech: Exploring how to optimize power consumption in large-scale electrical systems.
+
+### 🌎 Languages
+- **English** (Native Fluent)
+- **Spanish** (Native Fluent)
+- **Portuguese** (Intermediate)
+
+### 📫 Let's Connect:
+[[LinkedIn Link](https://www.linkedin.com/in/lucas-selvik/)]
+[[Gmail](lucasselvik@gmail.com)] | [[WashU Email](selvik@wustl.edu)]

@@ -7,7 +7,7 @@ I'm an **Electrical Engineering** student at **Washington University in St. Loui
 - **Robotics/Hardware:** Raspberry Pi | Arduino | ROS
 
 ### 🚀 Current Projects
-- **WashU Robotics Delivery Bot:** Developing the electrical systems and [establishing various sensors (Lidar, GPS, IMU)] for autonomous navigation.
+- **WashU Robotics Delivery Bot:** Developing the electrical systems and establishing various sensors (Lidar, GPS, IMU) for autonomous navigation.
 - **Smoke Data Visualization:** Jupyter Notebook visualization of PM2.5 data.
 
 ### 🌱 I’m currently learning...
